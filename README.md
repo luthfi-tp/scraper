@@ -34,4 +34,4 @@ Result:
 [WRITE WHAT YOU SEE AFTER CHECKING robots.txt]
 
 ### Responsible Scraping
-I will not reuse this code on another site without checking its rules and terms first.
+I will not reuse this code on another site without checking its rules and terms first.# scraper
